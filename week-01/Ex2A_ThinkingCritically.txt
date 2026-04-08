@@ -1,0 +1,24 @@
+1) Questions :
+ - is there any relation between states?
+ - are results depends on the race?
+
+2) Link: https://trends.google.com/trends/?geo=US&hl=en-US
+
+3) a) Aug 11 - 17 2024
+   b) Feb 9 - 15 2025
+
+4) a) High: May 26 - Jun 1 2024 Low: Nov 24 - 30 2024
+   b) High and low point values are much smaller and milkshake line looks undetailed.
+
+5) The milkshake line is tighten up because, hamburger line have more data than milkshake.  
+	 
+6) a) If breakup line starts to rise, the Hamburger line affects after a week
+   b) I think there is not a strong correlation between The milkshake and breakup lines. It looks like they have correlation in between Dec 29 2024 - Jan 4 2025 but the Milkshake line affected by from Christmas week. 
+
+7) I think the article is not reliable. They might be have true some points but they oversold the ideas.
+
+8) a) South Carolina
+   b) South Dakota
+
+10) a) Adding articles make more accurate data because it just consider the related topic not the keywords.
+    b) I tried the 'UEFA Champions League' topic. On important match dates, there is a correlation with the Hamburger line. People are naturally starving while watching, so they order the most popular food in the US.
