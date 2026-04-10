@@ -1,0 +1,15 @@
+1- A official government website for national database
+
+2- 402,382 datasets
+
+3- There's only 50 datasets about that and all related with human health.
+
+4- Click the "Department of Agriculture" link under the Organization metadata on the right side of the page.
+
+6- You will typically see local governments and federal agencies like the US Census Bureau.
+
+7- Searching "nutrition" broadens the results to include public health and food assistance programs, rather than just the chemical breakdowns of foods.
+
+Q8-  a- It lists matching food products. Clicking a result opens a detailed profile of its macro and micronutrients based on portion size.
+
+-b You will find bulk data files (CSV/JSON) for offline use. They are quite large. You can find more info in the data dictionaries or API documentation linked on the page.
