@@ -11,4 +11,3 @@ dollars = 3
 cents = .50
 cents = cents + .25
 print(dollars+cents)
-# We can do mathematical calculations between strings and floats
