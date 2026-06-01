@@ -7,17 +7,17 @@ A four-year sales analysis for the Lana Ilana territory, covering the period fro
 # Overview
 The goal of this project is to answer four main questions:
 
-1- How has total revenue changed over the four years?
-2- Which stores perform best, and which need help?
-3- Who are the most valuable customers, and how does the rewards program affect spending?
-4- Which product categories drive the most revenue?
-5- The analysis ends with a list of recommendations based on the findings.
+- How has total revenue changed over the four years?
+- Which stores perform best, and which need help?
+- Who are the most valuable customers, and how does the rewards program affect spending?
+- Which product categories drive the most revenue?
+- The analysis ends with a list of recommendations based on the findings.
 
 # Data Sources
 The project uses five CSV files:
 FileWhat it containsStoreSales.csvEvery transaction: date, store, product, customer, amountStoreDetail.csvStore information: city, state, territory managerProducts.csvProduct list with category linksProductCategories.csvCategory namescustomer_list.csvCustomer names and emails (separator: |)
+
 The five files are joined together using shared keys: Store ID, Prod Num, CategoryID, and RewardsID (which matches cust_id in the customer file).
-Tools Used
 
 # Tools Used
 Python 3
