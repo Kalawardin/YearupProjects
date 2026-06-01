@@ -27,9 +27,9 @@ Jupyter Notebook — for the analysis
 PowerPoint — for the final presentation
 
 # Key Findings
-Revenue grew by 150% over four years. Total revenue went from $598K in 2022 to $1.50M in 2025. Total revenue across the full period was $3.93M. The best single month was October 2025, with $188K.
-Growth was not steady. There was a big jump between 2022 and 2023 (+53%), then a flat year in 2024, and a sharp rise starting in late 2024 that continued through 2025 (+63%).
-Two stores drive 30% of revenue. Store 724 (Miami, Florida) and Store 728 (Tallahassee, Florida) outperform the other nine stores by a wide margin.
-The top 5 customers spend 5x more than the average. Top 5 customers spend about $4,217 each, compared to $844 for the average rewards customer.
-Only 10.6% of transactions use the rewards program. This means we have limited information about most of our customers, but it also shows there is room to grow the program.
-Two categories make 88% of revenue. Technology & Accessories is 62.7%, and Textbooks is 25.2%. The other three categories together make only 12%.
+- Revenue grew by 150% over four years. Total revenue went from $598K in 2022 to $1.50M in 2025. Total revenue across the full period was $3.93M. The best single month was October 2025, with $188K.
+- Growth was not steady. There was a big jump between 2022 and 2023 (+53%), then a flat year in 2024, and a sharp rise starting in late 2024 that continued through 2025 (+63%).
+- Two stores drive 30% of revenue. Store 724 (Miami, Florida) and Store 728 (Tallahassee, Florida) outperform the other nine stores by a wide margin.
+- The top 5 customers spend 5x more than the average. Top 5 customers spend about $4,217 each, compared to $844 for the average rewards customer.
+- Only 10.6% of transactions use the rewards program. This means we have limited information about most of our customers, but it also shows there is room to grow the program.
+- Two categories make 88% of revenue. Technology & Accessories is 62.7%, and Textbooks is 25.2%. The other three categories together make only 12%.
