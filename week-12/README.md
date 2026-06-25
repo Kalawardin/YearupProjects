@@ -1,7 +1,7 @@
 # EmporiUm Sales Performance Analysis (Capstone 3)
 
 ## Video Link
-
+https://youtu.be/TH3hNeHdZb4
 
 ## Project Overview
 This repository contains the files and documentation for my Data Analytics Capstone project focusing on EmporiUm, a virtual student bookstore. The objective of this project is to clean, model, analyze, and visualize four years of business-related sales data using Power BI to support better business decision-making. 
